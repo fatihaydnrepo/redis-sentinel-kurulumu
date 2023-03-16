@@ -30,6 +30,8 @@ Redis Sentinel'in kullanımı ve püf noktaları aşağıdaki gibidir:
 
  • Tar dosyasını dışarı çıkarıyoruz  
  >tar xvf redis-stable.tar.gz
+
+
 ![enter image description here](https://raw.githubusercontent.com/ReptilianusBileciktus/redis/main/kurulum%20photo/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-03-15%20200303.png)
 
 • İçeride ki trafik internal olacağından güvenlik amaçlı ufw servisini kapatıyoruz 
