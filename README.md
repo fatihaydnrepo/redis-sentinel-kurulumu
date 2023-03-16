@@ -22,6 +22,8 @@ Redis Sentinel'in kullanımı ve püf noktaları aşağıdaki gibidir:
 ###  Redis Sentinel Kurulumu (High Avalibility)
 
 • Redis-Sentinel stable versiyonu indirmek için 
+
+
 >curl -o redis-stable.tar.gz https://download.redis.io/redisstable.tar.gz
 
 ![enter image description here](https://raw.githubusercontent.com/ReptilianusBileciktus/redis/main/kurulum%20photo/11.png)
